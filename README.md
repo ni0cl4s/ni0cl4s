@@ -1,4 +1,4 @@
-### Hello 👋
+### Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 Welcome on my profile
 <!--
 **ni0cl4s/ni0cl4s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
