@@ -3,8 +3,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats-ni0cl4s.vercel.app/api?username=ni0cl4s&show_icons=true&theme=transparent&count_private=true&include_all_commits=true&rank_icon=percentile" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats-ni0cl4s.vercel.app/api/top-langs?username=ni0cl4s&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=20&theme=transparent&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats-ni0cl4s.vercel.app/api?username=ni0cl4s&show_icons=true&theme=transparent&count_private=true&include_all_commits=true&rank_icon=percentile" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats-ni0cl4s.vercel.app/api/top-langs?username=ni0cl4s&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=20&theme=transparent&hide_border=false" height="200" alt="languages graph"  />
 </div>
 
 ###
@@ -82,9 +82,9 @@
 </div>
 
 ###
-
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+  <p align="center">Spotify recently played</p>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=nicolas.cuve&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" height="150" alt="stats graph"  />
 </div>
 
 ###
